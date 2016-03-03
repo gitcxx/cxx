@@ -1,1 +1,2 @@
 # cxx
+-feature -A
